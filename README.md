@@ -5,6 +5,8 @@
 ## Division: ENTC-A3
 ## Title: Introduction to C++ and OOPS, Variables, Data Types, I/O Operations ( Tools: MS Visual Studio Code )
 
+---
+
 ## Aim :
 *To print "Hello World", create a calculator program and understand the following concepts:*
 
@@ -32,6 +34,7 @@ This is often the very first program written when starting to learn any programm
 ## Importance of this code :
 This simple code helps us learn how to print text on the screen and understand the basic format of a C++ program .
 
+---
 
 ## 2. Simple Calculator Program
 This program performs basic arithmetic operations: addition, subtraction, multiplication, and division. It takes two numbers as input, carries out the calculations, and then displays the results.
@@ -57,7 +60,7 @@ The division of num1 and num2 is : 1.28
 The subtraction of num1 and num2 is : 16 
 
 ## Importance of this code : 
-this code hels us learn how to :
+this code helps us learn how to :
 
  - take user input using `cin`
 
@@ -68,6 +71,8 @@ this code hels us learn how to :
  - display well-formatted output for better readability
 
  - Basic logic and structure of a command-line based program
+
+---
 
 ## Conclusion
 These two foundational programs provide a strong starting point for learning the C++ programming language. They cover key beginner-level concepts such as:

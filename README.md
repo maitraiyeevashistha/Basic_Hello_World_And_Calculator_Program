@@ -47,13 +47,14 @@ This program performs basic arithmetic operations: addition, subtraction, multip
 
 **Sample Output :**
 
-Enter the first number: 72
+Enter the first number : 72 
+
 Enter the second number 56  
 
-Sum of the given numbers: 128  
-The product of num1 and num2 is: 4032  
-The division of num1 and num2 is: 1.28 
-The subtraction of num1 and num2 is: 16 
+Sum of the given numbers : 128  
+The product of num1 and num2 is : 4032  
+The division of num1 and num2 is : 1.28   
+The subtraction of num1 and num2 is : 16 
 
 ## Importance of this code : 
 this code hels us learn how to :

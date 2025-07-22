@@ -28,8 +28,8 @@ This is often the very first program written when starting to learn any programm
 
 **Sample Output:**
 
- - Hello World !
- - This Is My First C++ Code !
+Hello World !
+This Is My First C++ Code !
 
 ## Importance of this code :
 This simple code helps us learn how to print text on the screen and understand the basic format of a C++ program .

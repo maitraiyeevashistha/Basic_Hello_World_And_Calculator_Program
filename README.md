@@ -1,8 +1,5 @@
 # C++ Basic Programs
 
-## Name: Maitraiyee Vashistha
-## PRN: 24070123057
-## Division: ENTC-A3
 ## Title: Introduction to C++ and OOPS, Variables, Data Types, I/O Operations ( Tools: MS Visual Studio Code )
 
 ---
